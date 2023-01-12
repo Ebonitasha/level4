@@ -1,0 +1,174 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;900&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Lora:ital,wght@0,700;1,400&display=swap');
+
+
+.nav{
+  /* margin-top: 300px;
+  background-image: url(plumbing.jpg);
+  width: 97vw;
+  height: 35vh;
+  
+  padding: 15px;  */
+}
+.title{
+  color: red;
+  font-family: 'Inter', sans-serif;
+/* font-family: 'Libre Baskerville', serif;
+font-family: 'Lora', serif; */
+  font-size: 80px;
+  position: relative;
+  left: 250px;
+}
+.logo{
+  position: relative;
+  left: 520px;
+  margin-top: 20px;
+  height: 550px;
+}
+.body{
+  position: relative;
+  padding: 30px;
+  margin-right: 25px;
+  left: 150px;
+  margin-top: 80px;
+  
+ 
+}
+.services{
+  font-family: 'Inter', sans-serif;
+  position: relative;
+  left: 400px;
+  color: black;
+}
+.repair1{
+  position: relative;
+  color: red;
+  font-style: italic;
+  right: 50px;
+  
+}
+.repair{
+  position: relative;
+  font-weight: bolder;
+ max-width: 400px;
+ right: 25px;
+}
+.sewer1{
+  position: relative;
+  color: red;
+  font-style: italic;
+  
+}
+.sewer{
+  position: relative;
+  font-weight: bolder;
+  max-width: 400px;
+  left: 25px;
+}
+.toilet1{
+  position: relative;
+  color: red;
+  font-style: italic;
+  left: 75px;
+}
+.toilet{
+  position: relative;
+  left: 100px;
+  font-weight: bolder;
+  max-width: 400px;
+}
+.water1{
+  position: relative;
+  left: 110px;
+  color: red;
+  font-style: italic;
+  
+}
+.water{
+  position: relative;
+  font-weight: bolder;
+  max-width: 400px;
+  left: 135px;
+}
+.deals{
+  position: relative;
+  font-family: 'Inter', sans-serif;
+  color: black;
+  left: 400px;
+}
+.discount{
+  position: relative;
+  height: 350px;
+  left: 90px;
+}
+.flexbox{
+  display: flex;
+  position: relative;
+  right: 100px;
+  padding: 40px 40px 40px 40px;
+
+}
+.box2{
+  display: flex;
+  position: relative;
+  right: 100px;
+  padding: 40px 40px 40px 40px;
+}
+.icon{
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-evenly;
+  position: relative;
+  margin-top: 100px;
+  
+}
+.social-media{
+  color: white;
+  font-size: 5rem;
+  padding: 5px;
+}
+.contact{
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  margin: 90px 90px 90px 90px ;
+}
+.one{
+  height: 160px;
+  background-color:white;
+  max-width: 300px;
+  color:black;
+  border: 2px solid black;
+  border-radius: 15px;
+}
+.two{
+  height: 160px;  
+  background-color:white;
+  max-width: 320px;
+  color:black;
+  border: 2px solid black;
+  border-radius: 15px;
+
+}.three{
+  height: 160px;
+  background-color:white;
+  max-width: 300px;
+  color:black;
+  border: 2px solid black;
+  border-radius: 15px;
+}
+.four{
+margin: 30px 30px 30px 30px;
+}
+.five{
+  margin: 30px 30px 30px 30px;
+}
+.six{
+  margin: 30px 30px 30px 30px;
+}
+.about{
+  margin-left: 20px;
+
+}
+.service{
+  margin-left: 20px;
+}

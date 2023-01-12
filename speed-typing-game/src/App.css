@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+.textarea{
+  height: 300px;
+  width: 550px;
+  background-color: red; 
+  font-size: 30px;
+}
+button{
+  background-color: red;
+  height: 30px;
+}
+button:disabled{
+  background-color: blueviolet;
+}
+
+textarea:disabled{
+  background-color: blueviolet;
+}
+
+

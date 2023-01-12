@@ -1,0 +1,20 @@
+ const [newColor, setNewColor] = React.useState (["pink", "yellow"])
+ const colorList = newColor.map((color, index) =>{
+  return(
+    <Colors key={index}>{color}</Colors>
+  )
+})
+
+  // function addItems(){
+  //  setNewColor(prevState =>{
+  //   return [...prevState, `Color ${colorList.length + 1}`]
+  //  })
+  // }
+
+
+//   <Colors>
+//   <h3>Color 2</h3>
+//   </Colors>
+//   <Colors>
+//   <h3>Color 3</h3>
+//   </Colors>  */}

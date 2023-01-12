@@ -1,0 +1,27 @@
+div, button { 
+  padding: 5px 10px; 
+  margin: 5px 0px; 
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+button { 
+  border: none; 
+  height: 50px;
+  
+}
+
+.light-theme {
+  background-color: #cfcfcf;
+  color: #000;
+  width: max-content;
+}
+
+.dark-theme {
+  background-color: #3a3b3c;
+  color: #fff; 
+}
+
+.purple-theme{
+  background-color: black;
+  color: purple;
+}

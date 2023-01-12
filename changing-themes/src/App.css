@@ -1,0 +1,63 @@
+.navBar{
+  background-color: black;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;   
+  padding: 20px;  
+  margin: 40px;
+  position: relative;
+ 
+} 
+.list{
+  display: flex;
+  margin: 20px;
+  position: relative;
+  right: 600px;
+  top: 130px;
+}
+.view{
+  position: relative;
+  right: 500px;
+  
+}
+.book{
+  position: relative;
+  right: 100px;
+  
+}
+.account{
+  position: relative;
+  left: 420px;
+}
+.title{
+font-size: 60px;
+  padding: 5px;
+  position: relative;
+  left:590px;
+  top: -50px;
+}
+.main{
+  border: 5px solid;
+  height: 60vh;
+  position: relative;
+  bottom: 50px;
+  width: 93vw;
+  margin: 20px;
+  left: 25px;
+}
+
+.aqua-theme{
+/* background-color: darkblue; */
+color: aqua;
+
+}
+.red-theme{
+/* background-color: darkgreen; */
+color: red;
+}
+.end{
+  position: relative;
+  bottom: 50px;
+  left: 650px;
+}
+

@@ -1,0 +1,40 @@
+.container{
+  border: 5px solid;
+  padding: 10px;
+  margin: 5px;
+  height: 80vh;
+}
+.header{
+  color: orchid;
+  font-size: 45px;
+  position: relative;
+  left: 530px;  
+  
+}
+.box{
+  width: 50vw;
+  height: 50vh;
+  background-image: linear-gradient(#FFFF00 , #000000);
+}
+.options{
+  width: 20vw;
+  height: 45vh;
+  background-image:linear-gradient(#FFFF00 , #000000);
+  position: relative;
+  left: 900px;
+  padding: 10px;
+}
+.border{
+  background-color: white;
+  margin: 5px;
+  border-radius: 4px;
+  background-image: linear-gradient(black);
+  
+}
+.number{
+  border-radius: 4px;
+  width: 40px;
+}
+/* .one{
+  background-image: linear-gradient(#);
+} */
